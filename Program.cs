@@ -6,7 +6,6 @@ namespace NutriWeek
     {
         static void Main(string[] args)
         {
-            // Poll Request;
             Console.WriteLine("Hello World!");
             //Console.WriteLine("Press any key to exit...");
             //Console.ReadKey();
